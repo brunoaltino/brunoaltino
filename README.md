@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Bruno Anderson Possamai.
-👀 I’m interested in data, statitics, data science, technology and geek culture.
+👀 I’m interested in data, statistics, data science, technology and geek culture.
 
 🌱 I’m currently studying for a bachelor's degree in Statistics & Data Science at the Federal University of Espírito Santo.
 
