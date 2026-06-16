@@ -1,12 +1,8 @@
 # 👋 Hi, I’m Bruno Possamai.
 👀 I’m interested in data, statistics, data science, technology and pop culture.
-
 🌱 I’m currently studying for a bachelor's degree in Statistics & Data Science at the Federal University of Espírito Santo.
-
 🖼️ My portfolio: loading...
-
 ✍️ My data blog: loading...
-
 🛠️ Tech Stack:
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
@@ -25,7 +21,6 @@
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
 
 - 📫 How to reach me -> linkedin.com/in/brunopossamai
 
